@@ -1,0 +1,2 @@
+# Cyber-Security-Application---Detecting-Linux-system-hacking-activities
+Investigating the open data from the Cyber Range Labs of UNSW Canberra and build models based on the data to identify abnormal system behaviour. In addition, integrate the machine learning models into the streaming platform using Apache Kafka and Apache Spark Streaming to detect any real-time threats, in order to stop the hacking.
